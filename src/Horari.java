@@ -9,7 +9,7 @@ public class Horari {
         int Hores = dades1.nextInt();
         System.out.print("Preu hora: ");
         double Preu =dades1.nextDouble();
-        System.out.println("Cobra tot el mes: ");
+        System .out.println("Cobra tot el mes: ");
         System.out.println("Dies treballats: "+Dies);
         System.out.println("Hores treballades al dia: "+Hores);
         System.out.println("Preu hora: "+Preu);
