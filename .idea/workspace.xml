@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:github/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5666bd0b-5da8-4f74-a178-b4e0e39401f4" name="Default Changelist" comment="Exercici 1,2,3,4 Completat&#10;Fent 5 i 6">
+      <change beforePath="$PROJECT_DIR$/src/Aleatori.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aleatori.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../exercicisbasics-rommymiranda01\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="ProjectId" id="1huxA1xlVziJtIGDnx9lCKs5Lvs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.Aleatori">
+    <configuration name="Aleatori" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aleatori" />
+      <module name="exercicisbasics-rommymiranda01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Horari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Horari" />
+      <module name="exercicisbasics-rommymiranda01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Milisegons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Milisegons" />
+      <module name="exercicisbasics-rommymiranda01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Triangle" />
+      <module name="exercicisbasics-rommymiranda01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Variables" />
+      <module name="exercicisbasics-rommymiranda01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Aleatori" />
+        <item itemvalue="Application.Variables" />
+        <item itemvalue="Application.Triangle" />
+        <item itemvalue="Application.Milisegons" />
+        <item itemvalue="Application.Horari" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5666bd0b-5da8-4f74-a178-b4e0e39401f4" name="Default Changelist" comment="" />
+      <created>1600874630840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600874630840</updated>
+      <workItem from="1600874632204" duration="45000" />
+      <workItem from="1600874695927" duration="6791000" />
+      <workItem from="1600881520341" duration="275000" />
+      <workItem from="1601304350477" duration="234000" />
+      <workItem from="1601304602256" duration="147000" />
+      <workItem from="1601304792226" duration="9957000" />
+      <workItem from="1601316986505" duration="1946000" />
+      <workItem from="1601319095311" duration="153000" />
+      <workItem from="1601319271256" duration="37000" />
+      <workItem from="1601649807757" duration="8763000" />
+      <workItem from="1601816285586" duration="2000" />
+    </task>
+    <task id="LOCAL-00001" summary="Exercici 1,2,4 Completat&#10;&#10;Falta preguntar si el 3 es correcte">
+      <created>1600881275946</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600881275946</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Exercici 1,2,3,4 Completat&#10;Fent 5 i 6">
+      <created>1601316525753</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601316525753</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Exercici 1,2,3,4 Completat&#10;Fent 5 i 6">
+      <created>1601316645991</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601316645991</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Exercici 1,2,3,4 Completat&#10;Fent 5 i 6">
+      <created>1601316884687</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601316884687</updated>
+    </task>
+    <task id="LOCAL-00005" summary="gfdcg">
+      <created>1601317072699</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601317072699</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fent exercici 5 i 6">
+      <created>1601317143153</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601317143153</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Exercici 1,2,3,4 Completat&#10;Fent 5 i 6">
+      <created>1601317547341</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601317547341</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="2">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="3">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="github/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercici 1,2,4 Completat&#10;&#10;Falta preguntar si el 3 es correcte" />
+    <MESSAGE value="gfdcg" />
+    <MESSAGE value="Fent exercici 5 i 6" />
+    <MESSAGE value="Exercici 1,2,3,4 Completat&#10;Fent 5 i 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercici 1,2,3,4 Completat&#10;Fent 5 i 6" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="230" y="0" key="#Java" timestamp="1601319166545">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="230" y="0" key="#Java/0.0.1280.728@0.0.1280.728" timestamp="1601319166545" />
+    <state x="387" y="219" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1601317473785">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="387" y="219" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.728@0.0.1280.728" timestamp="1601317473785" />
+    <state x="92" y="92" width="1096" height="544" key="DiffContextDialog" timestamp="1601317401107">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="92" y="92" width="1096" height="544" key="DiffContextDialog/0.0.1280.728@0.0.1280.728" timestamp="1601317401107" />
+    <state x="420" y="105" key="FileChooserDialogImpl" timestamp="1601304731081">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="420" y="105" key="FileChooserDialogImpl/0.0.1280.728@0.0.1280.728" timestamp="1601304731081" />
+    <state x="457" y="262" key="Github.ShareDialog" timestamp="1601318489828">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="457" y="262" key="Github.ShareDialog/0.0.1280.728@0.0.1280.728" timestamp="1601318489828" />
+    <state width="594" height="569" key="GridCell.Tab.0.bottom" timestamp="1601659129469">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state width="594" height="569" key="GridCell.Tab.0.bottom/0.0.1280.728@0.0.1280.728" timestamp="1601659129469" />
+    <state width="594" height="569" key="GridCell.Tab.0.center" timestamp="1601659129469">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state width="594" height="569" key="GridCell.Tab.0.center/0.0.1280.728@0.0.1280.728" timestamp="1601659129469" />
+    <state width="594" height="569" key="GridCell.Tab.0.left" timestamp="1601659129469">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state width="594" height="569" key="GridCell.Tab.0.left/0.0.1280.728@0.0.1280.728" timestamp="1601659129469" />
+    <state width="594" height="569" key="GridCell.Tab.0.right" timestamp="1601659129469">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state width="594" height="569" key="GridCell.Tab.0.right/0.0.1280.728@0.0.1280.728" timestamp="1601659129469" />
+    <state x="120" y="55" key="MergeDialog" timestamp="1601317212186">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="120" y="55" key="MergeDialog/0.0.1280.728@0.0.1280.728" timestamp="1601317212186" />
+    <state x="278" y="125" key="MultipleFileMergeDialog" timestamp="1601317216228">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="278" y="125" key="MultipleFileMergeDialog/0.0.1280.728@0.0.1280.728" timestamp="1601317216228" />
+    <state x="92" y="92" width="1096" height="544" key="ShowDiffWithBranchDialog" timestamp="1601319248475">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="92" y="92" width="1096" height="544" key="ShowDiffWithBranchDialog/0.0.1280.728@0.0.1280.728" timestamp="1601319248475" />
+    <state x="401" y="148" width="816" height="508" key="Vcs.Push.Dialog.v2" timestamp="1601317580647">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="401" y="148" width="816" height="508" key="Vcs.Push.Dialog.v2/0.0.1280.728@0.0.1280.728" timestamp="1601317580647" />
+    <state x="370" y="265" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601317030855">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="370" y="265" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.728@0.0.1280.728" timestamp="1601317030855" />
+    <state x="462" y="0" key="new project wizard" timestamp="1601650495814">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="462" y="0" key="new project wizard/0.0.1280.728@0.0.1280.728" timestamp="1601650495813" />
+    <state x="303" y="49" key="search.everywhere.popup" timestamp="1600874935042">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="303" y="49" key="search.everywhere.popup/0.0.1280.728@0.0.1280.728" timestamp="1600874935042" />
+    <state x="470" y="155" key="svn.repositoryBrowser" timestamp="1601304837309">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="470" y="155" key="svn.repositoryBrowser/0.0.1280.728@0.0.1280.728" timestamp="1601304837309" />
+  </component>
+</project>
